@@ -27,11 +27,11 @@ Wechat JSAPI
 
 Wepay payment gateway https://github.com/cosmocommerce/magento2-module-wepay
 
-WEUI theme for mobile first https://github.com/cosmocommerce/magento2-theme-weui
+WEUI theme for magento2 based on mobile first https://github.com/cosmocommerce/magento2-theme-weui
 
-Wechat Qiye(企业号) and Work(企业微信) https://github.com/cosmocommerce/magento2-module-wechat-qiye-work
+Wechat Qiye(企业号) and Work(企业微信) for magento2 https://github.com/cosmocommerce/magento2-module-wechat-qiye-work
 
-Wechat Apps(小程序) https://github.com/cosmocommerce/magento2-module-wechat-apps
+Wechat Apps(小程序) for magento2 https://github.com/cosmocommerce/magento2-module-wechat-apps
 
 ##Issues##
 
